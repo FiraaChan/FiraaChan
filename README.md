@@ -7,7 +7,6 @@
 <p align="center">
 • 👩‍🦰 My name is FiraaChan
 • 🗣️ I am 17 years old 
-• 🚀 Kang Recode
 • 🏘️ Suarabaya Or Lumajang 
 
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group%201-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EAMAuySd2Da3cUCYAvfVMQ)
